@@ -1,5 +1,5 @@
 # CHALLENGE AMIGO SECRETO
-![<img src"https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1737239602~exp=1737243202~hmac=60f2aaa2d59bd7964b9e7f40936b4e31ca8e46a2615f0f5798664db51cebfd99&w=900">]
+![<img src"https://i.ibb.co/Z1FNdjt/971.jpg">]
 
 ## 📜 Descripción
 Se trata de una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
