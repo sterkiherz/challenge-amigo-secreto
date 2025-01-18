@@ -1,5 +1,5 @@
 # CHALLENGE AMIGO SECRETO
-[<img src"https://i.ibb.co/Z1FNdjt/971.jpg">](https://i.ibb.co/Z1FNdjt/971.jpg)
+![Banner](https://i.ibb.co/Z1FNdjt/971.jpg)
 
 ## 📜 Descripción
 Se trata de una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
