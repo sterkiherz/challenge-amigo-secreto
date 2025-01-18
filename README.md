@@ -11,6 +11,6 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 - Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 ## 💻 Autores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |
+[<img src="https://i.ibb.co/Jy0y7cN/face.png" width=115><br><sub>Cinthia Salina (Sterki Herz)</sub>](https://github.com/sterkiherz)
 
 
